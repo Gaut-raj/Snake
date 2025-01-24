@@ -29,6 +29,9 @@ To run the Snake game, make sure you have Python installed on your system. Then 
    git clone https://github.com/Gaut-raj/Snake.git
    cd Snake
 2. **Install the required depencies**
+
    pip install pygame
+   
 3. **Run the Game**
+   
    python snake.py
